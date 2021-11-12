@@ -29,3 +29,13 @@ LEARN MORE FEATURES ABOUT THE README
 [Google a gitmek için tıkla](https://google.com)
 
 ![resim ekleme](https...)
+
+kod blok yazmak;
+```python
+print("hello world!")
+```
+
+```javascript
+console.log("hella world")
+```
+
